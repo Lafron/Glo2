@@ -1,4 +1,4 @@
-const a = 1;
+const a = "first variens";
 const b = "new variens";
 
 const l = () => {
