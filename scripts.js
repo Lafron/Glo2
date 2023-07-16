@@ -11,4 +11,5 @@ const logged = () => {
     console.log("commits");
 };
 
+console.log("MASTER");
 logged();
