@@ -11,4 +11,6 @@ function l() {
 
 const f = () => {
     m.textContent = "master";
- };
+};
+ 
+f(); l();
