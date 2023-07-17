@@ -1,5 +1,5 @@
 
-const b = "new variens";
+
 const a = "first variens";
 const c = "second variens";
 
