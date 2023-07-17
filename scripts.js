@@ -5,6 +5,8 @@ const c = "second variens";
 
 const m = document.getElementById("master");
 
+console.log("Hello World !!!");
+
 function l() {
     console.log("All command for git");
 };
