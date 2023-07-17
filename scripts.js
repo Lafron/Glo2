@@ -8,6 +8,8 @@ const m = document.getElementById("master");
 console.log("Hello World !!!");
 
 function l() {
+    console.log(`${a} ${b}`);
+
     console.log("All command for git");
 };
 
