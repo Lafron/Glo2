@@ -3,3 +3,7 @@ body{
     color: aquamarine;
     text-decoration: wavy;
 }
+
+#master {
+    border: 1px solid green;
+}
