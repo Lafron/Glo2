@@ -1,5 +1,5 @@
 
-
+const b = 10000;
 const a = "first variens";
 const c = "second variens";
 
